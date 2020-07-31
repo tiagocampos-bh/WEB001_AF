@@ -1,0 +1,10 @@
+git clone https://github.com/tiagocampos-bh/WEB001_AF.git
+
+cd WEB001_AF
+
+git add *
+
+git commit -m "Prova final"
+
+git push origin master
+
